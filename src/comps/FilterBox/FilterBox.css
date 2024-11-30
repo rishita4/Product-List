@@ -1,0 +1,23 @@
+#filterBox{
+    width:60%;
+    height:20%;
+    margin:auto;
+    margin-top: 1em;
+    /* border: 1px solid rgb(204, 255, 0); */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+/* #filter{
+    width: 60em;
+    height : 20%;
+    margin: auto;
+    margin-top: 1em;
+    border: 1px solid red;
+} */
+
+.dropdown{
+    width : 10em;
+}
+

@@ -1,0 +1,18 @@
+.Card{
+    width:70%;
+    height: 40%;
+    background-color: #D7B377;
+    margin : 1em;
+}
+
+.product-name, .product-price{
+    margin-left: 10%;
+    font-family: 'Times New Roman', times, serif;
+    font-size: 1.2em;
+    color: #5A1807;
+    margin-top: 10px;
+}
+
+.product-price{
+    font-size: 1.02em;
+}
